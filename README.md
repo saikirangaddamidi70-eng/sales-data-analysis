@@ -66,7 +66,7 @@ This project focuses on analyzing sales data to uncover key business insights su
 ---
 
 ## 📸 Dashboard Preview
-_Add your dashboard screenshot here_
+![Sales Dashboard](sales_overview.png) 
 
 ---
 
